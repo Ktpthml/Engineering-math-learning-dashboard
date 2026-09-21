@@ -34,7 +34,7 @@ Just open the `engineering-math-dashboard.html` file in your browser!
 
 1. **Fork or Clone this Repository**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/engineering-math-dashboard.git
+   git clone https://github.com/Ktpthml/engineering-math-dashboard.git
    cd engineering-math-dashboard
    ```
 
@@ -45,7 +45,7 @@ Just open the `engineering-math-dashboard.html` file in your browser!
    - Save
 
 3. **Access Your Dashboard**
-   - Visit: `https://YOUR-USERNAME.github.io/engineering-math-dashboard/`
+   - Visit: `https://Ktpthml.github.io/engineering-math-dashboard/`
    - Your progress syncs across all devices!
 
 ## File Structure
