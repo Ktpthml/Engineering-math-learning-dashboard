@@ -45,7 +45,7 @@ Just open the `engineering-math-dashboard.html` file in your browser!
    - Save
 
 3. **Access Your Dashboard**
-   - Visit: `https://Ktpthml.github.io/engineering-math-dashboard/`
+   - Visit: `[https://Ktpthml.github.io/engineering-math-dashboard/](https://ktpthml.github.io/Engineering-math-learning-dashboard/)`
    - Your progress syncs across all devices!
 
 ## File Structure
